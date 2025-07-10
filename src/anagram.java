@@ -32,6 +32,6 @@ import java.util.Arrays;
             System.out.println(foryou(s,t));
         }
     }
-
+//exit
 
 
